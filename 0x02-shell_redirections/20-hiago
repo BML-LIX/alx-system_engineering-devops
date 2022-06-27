@@ -1,0 +1,2 @@
+tr -d 'c' | tr -d 'C'
+chmod u+x 20-hiago
