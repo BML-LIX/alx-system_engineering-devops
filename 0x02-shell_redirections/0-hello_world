@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hello,World \n
-"
+echo "Hello,World"\n
